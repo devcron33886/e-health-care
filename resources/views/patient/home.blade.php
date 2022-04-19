@@ -27,7 +27,7 @@
                         <div class="inner">
                             <h3>{{ $doctors->count() }}</h3>
 
-                            <p>Total Users</p>
+                            <p>Total Doctors</p>
                         </div>
                         <div class="icon">
                             <i class="ion ion-bag"></i>
